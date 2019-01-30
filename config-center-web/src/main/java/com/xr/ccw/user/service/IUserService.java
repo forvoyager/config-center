@@ -1,4 +1,4 @@
-package com.ccw.user.service;
+package com.xr.ccw.user.service;
 
 /**
  * <p>

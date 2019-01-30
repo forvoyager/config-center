@@ -1,6 +1,6 @@
-package com.base;
+package com.xr.base;
 
-import com.ccw.user.model.User;
+import com.xr.ccw.user.model.User;
 import com.xr.config.core.constant.Constants;
 import com.xr.config.core.dto.ResultDto;
 import org.slf4j.Logger;

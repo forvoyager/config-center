@@ -1,4 +1,4 @@
-package com.start.config;
+package com.xr.start.config;
 
 /**
  * @author Arnold Yand

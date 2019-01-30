@@ -1,6 +1,6 @@
-package com.ccw.user.dto;
+package com.xr.ccw.user.dto;
 
-import com.ccw.user.model.User;
+import com.xr.ccw.user.model.User;
 
 import java.io.Serializable;
 

@@ -1,4 +1,4 @@
-package com.ccw.user.model;
+package com.xr.ccw.user.model;
 
 /**
  * <p>

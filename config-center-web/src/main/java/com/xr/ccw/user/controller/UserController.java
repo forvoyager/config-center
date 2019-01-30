@@ -1,8 +1,8 @@
-package com.ccw.user.controller;
+package com.xr.ccw.user.controller;
 
-import com.base.BaseController;
-import com.ccw.user.dto.SessionUser;
-import com.ccw.user.model.User;
+import com.xr.base.BaseController;
+import com.xr.ccw.user.dto.SessionUser;
+import com.xr.ccw.user.model.User;
 import com.xr.config.core.dto.ResultDto;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -38,6 +38,9 @@ public class UserController extends BaseController {
   @ResponseBody
   @RequestMapping(value = "/account/login", method = RequestMethod.POST)
   public ResultDto login(String name, String password) {
+
+    // TODO 登陆
+
     SessionUser user = new SessionUser();
     user.setUserId(666L);
     user.setUserName("utttupp");

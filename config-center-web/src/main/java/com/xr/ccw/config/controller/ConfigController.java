@@ -1,6 +1,6 @@
-package com.ccw.config.controller;
+package com.xr.ccw.config.controller;
 
-import com.base.BaseController;
+import com.xr.base.BaseController;
 import com.xr.config.core.dto.ResultDto;
 import com.xr.config.core.model.ConfigModel;
 import com.xr.config.core.model.EnvModel;
